@@ -1,47 +1,81 @@
-<!doctype html>
-<html lang="en-GB">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>Battle of Ideas 2026</title>
-  <meta name="description" content="Timetable, personal calendar, search and room directions for Battle of Ideas 2026.">
-  <meta name="theme-color" content="#84CC16">
-  <link rel="manifest" href="manifest.webmanifest">
-  <link rel="icon" href="icon-192.png">
-  <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-title" content="BoI 2026">
-  <link rel="stylesheet" href="styles.css">
-  <!-- Fuse.js: local copy if you add fuse.min.js next to this file (see README), otherwise loaded from jsDelivr by app.js -->
-  <script src="fuse.min.js" onerror="this.remove()"></script>
-</head>
-<body>
-  <a class="skip" href="#view">Skip to content</a>
-
-  <header class="topbar">
-    <h1>Battle of Ideas 2026</h1>
-    <p id="subtitle">Church House, Westminster</p>
-  </header>
-
-  <div id="searchbar" class="searchbar" role="search" hidden>
-    <label for="q" class="sr">Search speakers, rooms, times and titles</label>
-    <input id="q" type="search" inputmode="search" autocomplete="off" autocapitalize="off" spellcheck="false"
-           placeholder="Search speaker, room or time">
-    <button id="qclear" type="button" class="qclear" aria-label="Clear search" hidden>×</button>
-  </div>
-
-  <main id="view" tabindex="-1" aria-live="off"></main>
-
-  <nav class="tabs" aria-label="Main">
-    <button type="button" data-tab="timetable"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h18v16H3zM3 9h18M9 4v16M15 4v16" /></svg><span>Timetable</span></button>
-    <button type="button" data-tab="calendar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v15H4zM4 10h16M8 3v4M16 3v4M9 15l2 2 4-4" /></svg><span>My Calendar</span><b id="badge" class="badge" hidden>0</b></button>
-    <button type="button" data-tab="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" /><path d="M15.5 15.5L21 21" /></svg><span>Search</span></button>
-    <button type="button" data-tab="rooms"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0114 0c0 4.800-7 11-7 11z" /><circle cx="12" cy="10" r="2.500" /></svg><span>Rooms</span></button>
-  </nav>
-
-  <dialog id="details" aria-labelledby="d-title"></dialog>
-  <div id="toast" class="toast" role="status" aria-live="polite"></div>
-
-  <script type="module" src="app.js"></script>
-</body>
-</html>
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Battle of Ideas 2026</title><link rel="manifest" href="manifest.json"><meta name="theme-color" content="#84CC16"><link rel="icon" href="icon.svg">
+<style>
+:root{--l:#84CC16;--d:#1F2937;--g:#E5E7EB}*{box-sizing:border-box}
+body{margin:0;background:#fff;color:var(--d);font:16px/1.4 system-ui,sans-serif;padding-bottom:72px}
+header{padding:12px 16px;border-bottom:4px solid var(--l)}h1,h2{color:var(--l);margin:0;font-weight:800}h1{font-size:1.5rem}h2{font-size:1.2rem;margin:16px 0 8px}
+main{padding:12px 16px}input[type=search]{width:100%;padding:12px;font-size:1rem;border:2px solid var(--g);border-radius:10px}
+input:focus,button:focus-visible{outline:3px solid var(--d)}
+nav{position:fixed;bottom:0;left:0;right:0;display:flex;background:#fff;border-top:1px solid var(--g)}
+nav button{flex:1;min-height:56px;border:0;background:#fff;font:600 .85rem system-ui;color:var(--d)}nav button[aria-current=true]{background:var(--l)}
+.days{display:flex;gap:8px;margin:10px 0}.days button,.btn{min-height:44px;padding:0 16px;border:2px solid var(--l);border-radius:10px;background:#fff;font-weight:700;color:var(--d)}
+.days button[aria-pressed=true],.btn{background:var(--l)}
+.wrap{overflow:auto;max-height:68vh;border:1px solid var(--g);border-radius:10px}
+.grid{display:grid;grid-template-columns:64px repeat(var(--n),180px);width:max-content}
+.grid>div{padding:6px;border:1px solid var(--g);background:#fff}.rh{position:sticky;top:0;z-index:2;font-weight:700;background:#f7fee7!important;font-size:.8rem}
+.th{position:sticky;left:0;z-index:1;font-weight:700;font-size:.8rem;background:#f7fee7!important}.rh.th{z-index:3}
+.card{border:1px solid var(--g);border-left:6px solid var(--l);border-radius:10px;padding:10px;margin:8px 0;display:flex;gap:10px;align-items:flex-start;background:#fff}
+.card .t{flex:1;cursor:pointer}.card b{display:block}.sm{font-size:.8rem;color:#4B5563}
+.tg{min-width:44px;min-height:44px;border-radius:50%;border:2px solid var(--l);background:#fff;font:800 1.4rem system-ui;color:var(--d)}.tg[aria-pressed=true]{background:var(--l)}
+mark{background:#d9f99d}.warn{background:#fef3c7;border:1px solid #f59e0b;padding:8px;border-radius:8px;margin:8px 0}.chk{color:#b45309;font-size:.75rem}
+dialog{border:3px solid var(--l);border-radius:14px;max-width:92vw;width:460px}
+.plan{position:relative}.plan img{width:100%;display:block}.pin{position:absolute;width:28px;height:28px;margin:-14px;border-radius:50%;background:var(--l);border:3px solid var(--d);animation:p 1s infinite alternate}@keyframes p{to{transform:scale(1.4)}}
+.rl{display:block;width:100%;text-align:left;min-height:44px;margin:4px 0;padding:8px 12px;border:1px solid var(--g);border-radius:8px;background:#fff;font:inherit;color:var(--d)}
+</style></head><body>
+<header><h1>Battle of Ideas 2026</h1></header><main id="m"></main>
+<nav aria-label="Main"><button data-v="t">Timetable</button><button data-v="c">My Calendar</button><button data-v="s">Search</button><button data-v="r">Rooms</button></nav>
+<dialog id="dlg" aria-labelledby="dt"></dialog>
+<script>
+const $=s=>document.querySelector(s),esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+let S=[],R=[],meta={},cal=new Set(JSON.parse(localStorage.boi||'[]')),day='Saturday',view='t',q='',selRoom='';
+const tm=t=>+t.slice(0,2)*60+ +t.slice(3),sv=()=>localStorage.boi=JSON.stringify([...cal]);
+const btn=s=>`<button class="tg" data-id="${s.id}" aria-pressed="${cal.has(s.id)}" aria-label="${cal.has(s.id)?'Remove':'Add'} ${esc(s.title)} ${cal.has(s.id)?'from':'to'} my calendar">${cal.has(s.id)?'−':'+'}</button>`;
+const hl=(t,qs)=>{t=esc(t);qs.forEach(w=>{if(w.length>1)t=t.replace(new RegExp('('+w.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','ig'),'<mark>$1</mark>')});return t};
+const rl=(r,qs=[])=>`<a href="#" class="rm" data-room="${esc(r)}">${hl(r,qs)}</a>`;
+function lev(a,b){const d=[...Array(b.length+1).keys()];for(let i=1;i<=a.length;i++){let p=d[0];d[0]=i;for(let j=1;j<=b.length;j++){const t=d[j];d[j]=Math.min(d[j]+1,d[j-1]+1,p+(a[i-1]==b[j-1]?0:1));p=t}}return d[b.length]}
+function fz(tok,text){const w=text.toLowerCase().split(/[^a-zà-ÿ0-9']+/);return w.some(x=>x.includes(tok)||(tok.length>3&&lev(tok,x.slice(0,tok.length+1))<=Math.floor(tok.length/4)))}
+function tmatch(tok,s){const m=tok.match(/^(\d{1,2})(?::?(\d{2}))?(am|pm)?$/);if(!m||(!m[2]&&!m[3]&&tok.length<2))return false;let h=+m[1];if(m[3]=='pm'&&h<12)h+=12;if(m[3]=='am'&&h==12)h=0;const t=h*60+(+m[2]||0);return +s.startTime.slice(0,2)==h||(t>=tm(s.startTime)&&t<=tm(s.endTime))}
+function search(qs){return S.filter(s=>qs.every(t=>fz(t,s.speakers.join(' ')+' '+s.title)||fz(t,s.room)||tmatch(t,s)||s.day.toLowerCase().startsWith(t)))}
+const card=(s,qs=[])=>`<div class="card"><div class="t" data-open="${s.id}" tabindex="0" role="button"><b>${hl(s.title,qs)}</b><span class="sm">${s.day} ${s.startTime}–${s.endTime} · ${rl(s.room,qs)}</span>${s.speakers.length?`<div class="sm">${hl(s.speakers.join(', '),qs)}</div>`:''}${s.check?'<div class="chk">⚠ unverified – check programme</div>':''}</div>${btn(s)}</div>`;
+const days=()=>`<div class="days" role="group" aria-label="Day">${['Saturday','Sunday'].map(d=>`<button data-day="${d}" aria-pressed="${d==day}">${d}</button>`).join('')}</div>`;
+const sb=()=>`<label class="sm" for="q">Search speaker, room or time</label><input id="q" type="search" placeholder="e.g. Furedi, Temple, 2pm" value="${esc(q)}" autocomplete="off">`;
+function overlaps(list){const o=[];list.forEach((a,i)=>list.slice(i+1).forEach(b=>{if(a.day==b.day&&tm(a.startTime)<tm(b.endTime)&&tm(b.startTime)<tm(a.endTime))o.push([a,b])}));return o}
+function render(){
+ document.querySelectorAll('nav button').forEach(b=>b.setAttribute('aria-current',b.dataset.v==view));
+ let h='';
+ if(view=='t'||view=='s'){h=sb()}
+ const qs=q.toLowerCase().split(/\s+/).filter(Boolean);
+ if(view=='t'&&!qs.length){
+  const ds=S.filter(s=>s.day==day),rs=[...new Set(ds.map(s=>s.room))].sort((a,b)=>R.findIndex(r=>r.name==a)-R.findIndex(r=>r.name==b)),ts=[...new Set(ds.map(s=>s.startTime))].sort();
+  h+=days()+`<div class="wrap"><div class="grid" style="--n:${rs.length}"><div class="rh th">Time</div>${rs.map(r=>`<div class="rh">${rl(r)}</div>`).join('')}${ts.map((t,i)=>`<div class="th" style="grid-row:${i+2}">${t}</div>`).join('')}${ds.map(s=>`<div style="grid-column:${rs.indexOf(s.room)+2};grid-row:${ts.indexOf(s.startTime)+2}"><b class="sm" data-open="${s.id}" tabindex="0" role="button">${esc(s.title)}</b>${s.check?' <span class="chk">⚠</span>':''}<br>${btn(s)}</div>`).join('')}</div></div>`;
+ }else if(view=='t'||view=='s'){
+  const r=qs.length?search(qs):[];h+=`<h2>${qs.length?r.length+' result(s)':'Search'}</h2>`+(r.map(s=>card(s,qs)).join('')||(qs.length?'<p>No matches.</p>':'<p class="sm">Start typing…</p>'))
+ }else if(view=='c'){
+  const mine=S.filter(s=>cal.has(s.id)).sort((a,b)=>a.day.localeCompare(b.day)*-1||a.startTime.localeCompare(b.startTime)),o=overlaps(mine);
+  h+=`<h2>My Calendar</h2>`+o.map(([a,b])=>`<div class="warn" role="alert">⚠ Clash: “${esc(a.title)}” and “${esc(b.title)}” overlap on ${a.day}.</div>`).join('');
+  ['Saturday','Sunday'].forEach(d=>{const l=mine.filter(s=>s.day==d);if(l.length)h+=`<h2>${d}</h2>`+l.map(s=>card(s)).join('')});
+  h+=mine.length?`<p><button class="btn" id="ics">Export to phone calendar (.ics)</button></p>`:'<p>Nothing yet. Tap + on any session to add it.</p>'
+ }else{
+  h+=`<h2>Rooms &amp; Directions</h2><div class="plan"><img src="data/floorplan.jpeg" alt="Church House floor plan, three floors">${R.filter(r=>r.name==selRoom&&r.x).map(r=>`<span class="pin" style="left:${r.x}%;top:${r.y}%" role="img" aria-label="${esc(r.name)}"></span>`).join('')}</div>`;
+  const cur=R.find(r=>r.name==selRoom);if(cur)h+=`<div class="card"><div><b>${esc(cur.name)}</b><span class="sm">${esc(cur.floor)}</span><p>${esc(cur.directions)}</p></div></div>`;
+  h+=`<p class="sm">Entrances: Great Smith Street (step-free, Reception) and Dean's Yard (ground floor).</p>`+R.map(r=>`<button class="rl" data-room="${esc(r.name)}">${esc(r.name)} <span class="sm">· ${esc(r.floor)}</span></button>`).join('')
+ }
+ const f=document.activeElement&&document.activeElement.id=='q',p=f&&$('#q').selectionStart;
+ $('#m').innerHTML=h;if(f){$('#q').focus();$('#q').setSelectionRange(p,p)}
+}
+function open(id){const s=S.find(x=>x.id==id);$('#dlg').innerHTML=`<h2 id="dt">${esc(s.title)}</h2><p>${s.day} ${s.startTime}–${s.endTime}<br>${rl(s.room)}</p>${s.speakers.length?`<p><b>Speakers:</b> ${esc(s.speakers.join(', '))}</p>`:''}<p>${esc(s.description)}</p>${s.check?'<p class="chk">⚠ Unverified – check programme.</p>':''}<p>${btn(s)} <button class="btn" id="x">Close</button></p>`;$('#dlg').showModal()}
+function ics(){const z=(d,t)=>(meta.dates[d]||'').replace(/-/g,'')+'T'+t.replace(':','')+'00',L=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//BOI2026//EN'];
+ S.filter(s=>cal.has(s.id)).forEach(s=>L.push('BEGIN:VEVENT','UID:'+s.id+'@boi2026','DTSTAMP:'+new Date().toISOString().replace(/[-:]|\.\d+/g,''),'DTSTART:'+z(s.day,s.startTime),'DTEND:'+z(s.day,s.endTime),'SUMMARY:'+s.title.replace(/[,;]/g,' '),'LOCATION:'+s.room+', Church House, 55 Broadway, London SW1H 0BD','DESCRIPTION:'+s.speakers.join(' / '),'END:VEVENT'));
+ L.push('END:VCALENDAR');const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([L.join('\r\n')],{type:'text/calendar'}));a.download='battle-of-ideas-2026.ics';a.click()}
+document.addEventListener('click',e=>{const t=e.target,g=t.closest('.tg');
+ if(g){const id=g.dataset.id;cal.has(id)?cal.delete(id):cal.add(id);sv();if($('#dlg').open)open(id);render();return}
+ if(t.id=='x'){$('#dlg').close();return}if(t.id=='ics'){ics();return}
+ const rm=t.closest('[data-room]');if(rm){e.preventDefault();selRoom=rm.dataset.room;$('#dlg').open&&$('#dlg').close();view='r';render();scrollTo(0,0);return}
+ const o=t.closest('[data-open]');if(o){open(o.dataset.open);return}
+ const d=t.closest('[data-day]');if(d){day=d.dataset.day;render();return}
+ const n=t.closest('nav button');if(n){view=n.dataset.v;if(view=='t')q='';render();scrollTo(0,0)}});
+document.addEventListener('keydown',e=>{if(e.key=='Enter'&&e.target.dataset.open)open(e.target.dataset.open)});
+document.addEventListener('input',e=>{if(e.target.id=='q'){q=e.target.value;if(view=='t'&&!q.trim()){}render()}});
+Promise.all([fetch('data/timetable.json').then(r=>r.json()),fetch('data/rooms.json').then(r=>r.json())]).then(([t,r])=>{S=t.sessions;meta=t.meta;R=r;render()});
+if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js');
+</script></body></html>
