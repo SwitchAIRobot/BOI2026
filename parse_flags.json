@@ -1,0 +1,236 @@
+[
+  {
+    "csvRow": 10,
+    "severity": "info",
+    "issue": "Held at The Abbey Centre, not on the Church House floor plan. Add its directions in rooms.json",
+    "title": "Letting Abusers Out Early: Solving the Prisons Crisis",
+    "raw": {
+      "Date": "24/10/2026",
+      "Theme": "The State of Britain",
+      "Title": "Letting Abusers Out Early: Solving the Prisons Crisis",
+      "Speakers": "Ian Acheson; Rosie Duffield MP; David Shipley; Faith Spear; Adam Wren; Beverley McKeon (Chair)",
+      "Room": "Parker Morris Hall",
+      "Day": "Saturday",
+      "startTime": "10:15",
+      "endTime": "11:45",
+      "Floor": "First floor",
+      "Venue": "The Abbey Centre"
+    }
+  },
+  {
+    "csvRow": 13,
+    "severity": "info",
+    "issue": "Held at The Abbey Centre, not on the Church House floor plan. Add its directions in rooms.json",
+    "title": "Should We Put Britain First? The 'National Interest' Question",
+    "raw": {
+      "Date": "24/10/2026",
+      "Theme": "International Affairs",
+      "Title": "Should We Put Britain First? The 'National Interest' Question",
+      "Speakers": "Sabine Beppler-Spahl; Nick Busvine OBE; Lord Ross Kempsell; Lord Jack McConnell; Sebastian Moore; Hilary Salt (Chair)",
+      "Room": "Wash House Café",
+      "Day": "Saturday",
+      "startTime": "10:15",
+      "endTime": "11:45",
+      "Floor": "Ground floor",
+      "Venue": "The Abbey Centre"
+    }
+  },
+  {
+    "csvRow": 22,
+    "severity": "info",
+    "issue": "Held at The Abbey Centre, not on the Church House floor plan. Add its directions in rooms.json",
+    "title": "From Metro Mayors to Manchester: A Devolution Revolution?",
+    "raw": {
+      "Date": "24/10/2026",
+      "Theme": "The State of Britain",
+      "Title": "From Metro Mayors to Manchester: A Devolution Revolution?",
+      "Speakers": "Dolan Cummings; Lord Jack McConnell; Shelagh McNerney; Andy Preston; Gawain Towler; Alastair Donald (Chair)",
+      "Room": "Parker Morris Hall",
+      "Day": "Saturday",
+      "startTime": "12:15",
+      "endTime": "13:30",
+      "Floor": "First floor",
+      "Venue": "The Abbey Centre"
+    }
+  },
+  {
+    "csvRow": 25,
+    "severity": "info",
+    "issue": "Held at The Abbey Centre, not on the Church House floor plan. Add its directions in rooms.json",
+    "title": "Europe's Migration Chaos: Can We Learn from the 'Danish Model'?",
+    "raw": {
+      "Date": "24/10/2026",
+      "Theme": "International Affairs",
+      "Title": "Europe's Migration Chaos: Can We Learn from the 'Danish Model'?",
+      "Speakers": "Felice Basbøll; Sabine Beppler-Spahl; Henrik Overgaard-Nielsen; Laura Perrins; Bruno Waterfield; Tony Gilland (Chair)",
+      "Room": "Wash House Café",
+      "Day": "Saturday",
+      "startTime": "12:15",
+      "endTime": "13:30",
+      "Floor": "Ground floor",
+      "Venue": "The Abbey Centre"
+    }
+  },
+  {
+    "csvRow": 31,
+    "severity": "info",
+    "issue": "Held at The Abbey Centre, not on the Church House floor plan. Add its directions in rooms.json",
+    "title": "What Has the BBC Ever Done for Us?",
+    "raw": {
+      "Date": "24/10/2026",
+      "Theme": "The State of Britain",
+      "Title": "What Has the BBC Ever Done for Us?",
+      "Speakers": "Phil Craig; Linda Duberley; Philip Kiszely; Tiffany Jenkins (Chair)",
+      "Room": "Parker Morris Hall",
+      "Day": "Saturday",
+      "startTime": "13:45",
+      "endTime": "14:30",
+      "Floor": "First floor",
+      "Venue": "The Abbey Centre"
+    }
+  },
+  {
+    "csvRow": 41,
+    "severity": "info",
+    "issue": "Held at The Abbey Centre, not on the Church House floor plan. Add its directions in rooms.json",
+    "title": "Visas for All? Britain's Immigration Scandal",
+    "raw": {
+      "Date": "24/10/2026",
+      "Theme": "The State of Britain",
+      "Title": "Visas for All? Britain's Immigration Scandal",
+      "Speakers": "Remi Adekoya; Guy Dampier; Rakib Ehsan; James Heartfield; Stella Tsantekidou; Luke Gittos (Chair)",
+      "Room": "Parker Morris Hall",
+      "Day": "Saturday",
+      "startTime": "14:45",
+      "endTime": "16:15",
+      "Floor": "First floor",
+      "Venue": "The Abbey Centre"
+    }
+  },
+  {
+    "csvRow": 44,
+    "severity": "info",
+    "issue": "Held at The Abbey Centre, not on the Church House floor plan. Add its directions in rooms.json",
+    "title": "Is America Living Up to the Ideals of the Founding Fathers?",
+    "raw": {
+      "Date": "24/10/2026",
+      "Theme": "International Affairs",
+      "Title": "Is America Living Up to the Ideals of the Founding Fathers?",
+      "Speakers": "Cheryl Hudson; Jacob Mchangama; James Price; Mark Seddon; Alan Miller (Chair)",
+      "Room": "Wash House Café",
+      "Day": "Saturday",
+      "startTime": "14:45",
+      "endTime": "16:15",
+      "Floor": "Ground floor",
+      "Venue": "The Abbey Centre"
+    }
+  },
+  {
+    "csvRow": 53,
+    "severity": "info",
+    "issue": "Held at The Abbey Centre, not on the Church House floor plan. Add its directions in rooms.json",
+    "title": "From Kemi's Tories to Andy's Labour: Can the Legacy Parties Make a Comeback?",
+    "raw": {
+      "Date": "24/10/2026",
+      "Theme": "The State of Britain",
+      "Title": "From Kemi's Tories to Andy's Labour: Can the Legacy Parties Make a Comeback?",
+      "Speakers": "Jonny Ball; Carlton Brick; Ike Ijeh; Esther McVey MP; Stella Tsantekidou; Sally Millard (Chair)",
+      "Room": "Parker Morris Hall",
+      "Day": "Saturday",
+      "startTime": "16:45",
+      "endTime": "18:15",
+      "Floor": "First floor",
+      "Venue": "The Abbey Centre"
+    }
+  },
+  {
+    "csvRow": 56,
+    "severity": "info",
+    "issue": "Held at The Abbey Centre, not on the Church House floor plan. Add its directions in rooms.json",
+    "title": "From Vietnam to Iran, Why Can't the West Win Wars?",
+    "raw": {
+      "Date": "24/10/2026",
+      "Theme": "International Affairs",
+      "Title": "From Vietnam to Iran, Why Can't the West Win Wars?",
+      "Speakers": "Bill Durodié; James Glancy; William C. Hicks; Rosie Kay; Mark Seddon; Jacob Reynolds (Chair)",
+      "Room": "Wash House Café",
+      "Day": "Saturday",
+      "startTime": "16:45",
+      "endTime": "18:15",
+      "Floor": "Ground floor",
+      "Venue": "The Abbey Centre"
+    }
+  },
+  {
+    "csvRow": 58,
+    "severity": "check",
+    "issue": "No room given ('Not specified (see programme p12)'). Set to 'Location TBC'",
+    "title": "Saturday Night Drinks (see p12)",
+    "raw": {
+      "Date": "24/10/2026",
+      "Theme": "Drinks",
+      "Title": "Saturday Night Drinks (see p12)",
+      "Speakers": "",
+      "Room": "Not specified (see programme p12)",
+      "Day": "Saturday",
+      "startTime": "18:15",
+      "endTime": "20:30",
+      "Floor": "",
+      "Venue": "Church House"
+    }
+  },
+  {
+    "csvRow": 58,
+    "severity": "info",
+    "issue": "No speakers listed (fine for drinks, parties and addresses)",
+    "title": "Saturday Night Drinks (see p12)",
+    "raw": {
+      "Date": "24/10/2026",
+      "Theme": "Drinks",
+      "Title": "Saturday Night Drinks (see p12)",
+      "Speakers": "",
+      "Room": "Not specified (see programme p12)",
+      "Day": "Saturday",
+      "startTime": "18:15",
+      "endTime": "20:30",
+      "Floor": "",
+      "Venue": "Church House"
+    }
+  },
+  {
+    "csvRow": 116,
+    "severity": "check",
+    "issue": "No end time in the CSV. The app assumes 60 minutes on the grid and in the .ics export",
+    "title": "End of Festival Party",
+    "raw": {
+      "Date": "25/10/2026",
+      "Theme": "End address",
+      "Title": "End of Festival Party",
+      "Speakers": "",
+      "Room": "Bishop Partridge Hall",
+      "Day": "Sunday",
+      "startTime": "18:30",
+      "endTime": "",
+      "Floor": "First floor",
+      "Venue": "Church House"
+    }
+  },
+  {
+    "csvRow": 116,
+    "severity": "info",
+    "issue": "No speakers listed (fine for drinks, parties and addresses)",
+    "title": "End of Festival Party",
+    "raw": {
+      "Date": "25/10/2026",
+      "Theme": "End address",
+      "Title": "End of Festival Party",
+      "Speakers": "",
+      "Room": "Bishop Partridge Hall",
+      "Day": "Sunday",
+      "startTime": "18:30",
+      "endTime": "",
+      "Floor": "First floor",
+      "Venue": "Church House"
+    }
+  }
+]

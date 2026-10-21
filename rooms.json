@@ -1,0 +1,167 @@
+{
+  "_help": "Edit directions freely. x and y are the marker position on the plan as a percentage of image width and height (0-100). Use null for rooms that are not on the plan. Rooms appear in this order across the timetable grid.",
+  "plan": {
+    "image": "floorplan.jpg",
+    "alt": "Isometric floor plan of Church House showing the first floor, ground floor and lower ground floor"
+  },
+  "info": [
+    {
+      "title": "Great Smith Street entrance",
+      "text": "Main entrance to Reception on the ground floor, including disabled access."
+    },
+    {
+      "title": "Dean's Yard entrance",
+      "text": "Ground-floor entrance on the left of the plan, with its own Reception."
+    },
+    {
+      "title": "South Door",
+      "text": "Exit only."
+    },
+    {
+      "title": "Lifts and stairs",
+      "text": "Lifts serve all three floors. The main lifts are beside ground-floor Reception; stairs are in the middle of the ground floor."
+    },
+    {
+      "title": "Coffee and snacks",
+      "text": "Ground floor near Reception, in Church House Café (entrance on the right-hand side), and at a coffee point in Bishop Partridge Hall on the first floor."
+    },
+    {
+      "title": "Cloakroom",
+      "text": "Lower ground floor, near the lifts."
+    },
+    {
+      "title": "Accessible toilets",
+      "text": "Marked on each floor of the plan: first floor near the stairs and lifts, and lower ground floor by the cloakroom."
+    }
+  ],
+  "rooms": [
+    {
+      "name": "Assembly Hall",
+      "venue": "Church House",
+      "floor": "First floor",
+      "x": 60.9,
+      "y": 27.4,
+      "directions": "Take the lifts or stairs from ground-floor Reception up to the First floor. Assembly Hall is the big oval hall in the middle of the floor."
+    },
+    {
+      "name": "Hoare Memorial Hall",
+      "venue": "Church House",
+      "floor": "First floor",
+      "x": 78.4,
+      "y": 32.8,
+      "directions": "First floor. From the stairs and lifts, head to the right-hand side of the floor, past Assembly Hall."
+    },
+    {
+      "name": "Convocation Hall",
+      "venue": "Church House",
+      "floor": "First floor",
+      "x": 51.2,
+      "y": 23.3,
+      "directions": "First floor, on the far side of the floor behind Assembly Hall, next to the Bishops' Robing Room."
+    },
+    {
+      "name": "Chapel",
+      "venue": "Church House",
+      "floor": "First floor",
+      "x": 34.4,
+      "y": 28.7,
+      "directions": "First floor, on the left-hand side of the floor, below the Bishops' Robing Room."
+    },
+    {
+      "name": "Bishop Partridge Hall",
+      "venue": "Church House",
+      "floor": "First floor",
+      "x": 45.2,
+      "y": 35.0,
+      "directions": "First floor, just to the left of the stairs and lifts. There is a coffee point inside."
+    },
+    {
+      "name": "Council Room",
+      "venue": "Church House",
+      "floor": "Ground floor",
+      "x": 59.4,
+      "y": 62.6,
+      "directions": "Ground floor. Come in by the Great Smith Street entrance: the Council Room is just past Reception, at the end of the corridor."
+    },
+    {
+      "name": "Westminster Room",
+      "venue": "Church House",
+      "floor": "Ground floor",
+      "x": 35.6,
+      "y": 43.9,
+      "directions": "Ground floor, far left of the floor. Come in by the Dean's Yard entrance, pass Reception and keep left. It is next to the Abbey Room."
+    },
+    {
+      "name": "Abbey Room",
+      "venue": "Church House",
+      "floor": "Ground floor",
+      "x": 39.5,
+      "y": 47.2,
+      "directions": "Ground floor, left side of the floor, just beyond Reception from the Dean's Yard entrance. It sits next to the Westminster Room."
+    },
+    {
+      "name": "Church House Café",
+      "venue": "Church House",
+      "floor": "Ground floor",
+      "x": 89.2,
+      "y": 43.9,
+      "directions": "Ground floor, right-hand side. Walk past the stairs and the Harvey Goodwin Suite. The café has its own entrance from outside."
+    },
+    {
+      "name": "Harvey Goodwin Suite",
+      "venue": "Church House",
+      "floor": "Ground floor",
+      "x": 79.3,
+      "y": 49.5,
+      "directions": "Ground floor, right-hand side, between the stairs and the South Door (exit only)."
+    },
+    {
+      "name": "Robert Runcie Room",
+      "venue": "Church House",
+      "floor": "Lower ground",
+      "x": 68.4,
+      "y": 71.2,
+      "directions": "Take the lifts down to the Lower ground floor. The room is straight ahead of the lifts, at the top right of the floor."
+    },
+    {
+      "name": "Hospitality Suite",
+      "venue": "Church House",
+      "floor": "Lower ground",
+      "x": 57.0,
+      "y": 80.9,
+      "directions": "Lower ground floor. From the lifts, turn left past the cloakroom. The suite is the large room at the front of the floor."
+    },
+    {
+      "name": "Temple Room",
+      "venue": "Church House",
+      "floor": "Lower ground",
+      "x": 69.3,
+      "y": 81.8,
+      "directions": "Lower ground floor, at the far right-hand side, beyond the Hospitality Suite."
+    },
+    {
+      "name": "Parker Morris Hall",
+      "venue": "The Abbey Centre",
+      "floor": "First floor",
+      "x": null,
+      "y": null,
+      "directions": "The Abbey Centre is a separate building from Church House. First floor. EDIT ME: add walking directions from Church House."
+    },
+    {
+      "name": "Wash House Café",
+      "venue": "The Abbey Centre",
+      "floor": "Ground floor",
+      "x": null,
+      "y": null,
+      "directions": "The Abbey Centre is a separate building from Church House. Ground floor. EDIT ME: add walking directions from Church House."
+    },
+    {
+      "name": "Location TBC",
+      "venue": "",
+      "floor": "",
+      "x": null,
+      "y": null,
+      "directions": "The programme does not give a room for this event. See page 12 of the printed programme."
+    }
+  ]
+}

@@ -1,0 +1,2539 @@
+[
+  {
+    "id": "sat-0945-assembly-hall",
+    "theme": "Welcome address",
+    "title": "Battle of Ideas Festival 2026 Welcome Address",
+    "speakers": [
+      "Claire Fox",
+      "Ben Delo",
+      "Alastair Donald",
+      "Ella Whelan"
+    ],
+    "speakerRoles": {},
+    "room": "Assembly Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "09:45",
+    "endTime": "10:00",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1015-abbey-room",
+    "theme": "Go On, Convince Me",
+    "title": "Let Me Convince You: We Should Not Ban the Burqa",
+    "speakers": [
+      "Alan Miller",
+      "Jon Holbrook"
+    ],
+    "speakerRoles": {
+      "Alan Miller": "Lecturer",
+      "Jon Holbrook": "Chair"
+    },
+    "room": "Abbey Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "10:15",
+    "endTime": "11:45",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1015-assembly-hall",
+    "theme": "Keynote Controversies",
+    "title": "Controlling the Narrative? The Politics of Misinformation and Truth",
+    "speakers": [
+      "Quassim Cassam",
+      "Munira Mirza",
+      "Jacob Reynolds",
+      "David Rose",
+      "Robert Tombs",
+      "Claire Fox"
+    ],
+    "speakerRoles": {
+      "Claire Fox": "Chair"
+    },
+    "room": "Assembly Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "10:15",
+    "endTime": "11:45",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1015-convocation-hall",
+    "theme": "Battle for the Economy",
+    "title": "(How) Can the UK Survive the Debt Crisis?",
+    "speakers": [
+      "Dia Chakravarty",
+      "Ross Clark",
+      "Dominic Frisby",
+      "Phil Mullan",
+      "David Paton",
+      "Tony Gilland"
+    ],
+    "speakerRoles": {
+      "Tony Gilland": "Chair"
+    },
+    "room": "Convocation Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "10:15",
+    "endTime": "11:45",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1015-council-room",
+    "theme": "Culture Wars",
+    "title": "From Boycotts to Renaissance? Threats and Opportunities in the Arts",
+    "speakers": [
+      "Wendy Earle",
+      "Nat Edwards",
+      "Rosie Kay",
+      "Jenny Lindsay",
+      "Ian Pace",
+      "Tiffany Jenkins"
+    ],
+    "speakerRoles": {
+      "Tiffany Jenkins": "Chair"
+    },
+    "room": "Council Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "10:15",
+    "endTime": "11:45",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1015-harvey-goodwin-suite",
+    "theme": "Podcasts Live",
+    "title": "Podcast Live: The Life Sci Fantastic – Weight-Loss Jabs: The End of Willpower?",
+    "speakers": [
+      "Eliot Forster",
+      "Federica Amati"
+    ],
+    "speakerRoles": {
+      "Eliot Forster": "Host",
+      "Federica Amati": "Guest"
+    },
+    "room": "Harvey Goodwin Suite",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "10:15",
+    "endTime": "11:45",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1015-hoare-memorial-hall",
+    "theme": "(Un)Free Society",
+    "title": "The Corruption of the University?",
+    "speakers": [
+      "John Armstrong",
+      "Tess Ashen",
+      "Lord Nigel Biggar",
+      "Frank Furedi",
+      "Thomas Prosser",
+      "Alka Sehgal Cuthbert"
+    ],
+    "speakerRoles": {
+      "Alka Sehgal Cuthbert": "Chair"
+    },
+    "room": "Hoare Memorial Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "10:15",
+    "endTime": "11:45",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1015-hospitality-suite",
+    "theme": "The State of Welfare",
+    "title": "From Quiet Quitting to #LazyGirlJobs: Workshy Britain?",
+    "speakers": [
+      "Poppy Coburn",
+      "Julia Hobsbawm OBE",
+      "James Vitali",
+      "Jake Weston",
+      "Joanna Williams",
+      "Alastair Donald"
+    ],
+    "speakerRoles": {
+      "Alastair Donald": "Chair"
+    },
+    "room": "Hospitality Suite",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "10:15",
+    "endTime": "11:45",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1015-parker-morris-hall",
+    "theme": "The State of Britain",
+    "title": "Letting Abusers Out Early: Solving the Prisons Crisis",
+    "speakers": [
+      "Ian Acheson",
+      "Rosie Duffield MP",
+      "David Shipley",
+      "Faith Spear",
+      "Adam Wren",
+      "Beverley McKeon"
+    ],
+    "speakerRoles": {
+      "Beverley McKeon": "Chair"
+    },
+    "room": "Parker Morris Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "10:15",
+    "endTime": "11:45",
+    "floor": "First floor",
+    "venue": "The Abbey Centre"
+  },
+  {
+    "id": "sat-1015-robert-runcie-room",
+    "theme": "Ethical Dilemmas",
+    "title": "Surrogacy: Buying a Baby or Building a Family?",
+    "speakers": [
+      "Irune Ariño",
+      "Julie Bindel",
+      "Annaïg Birdy",
+      "Susan Smith",
+      "Ella Whelan",
+      "Ellie Lee"
+    ],
+    "speakerRoles": {
+      "Ellie Lee": "Chair"
+    },
+    "room": "Robert Runcie Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "10:15",
+    "endTime": "11:45",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1015-temple-room",
+    "theme": "Ideological Capture?",
+    "title": "After the Wildfires and Floods: Should We Reassess Climate Change?",
+    "speakers": [
+      "Martin Durkin",
+      "Rob Lyons",
+      "Catherine McBride OBE",
+      "Calum TM Nicholson",
+      "Harry Wilkinson",
+      "Timandra Harkness"
+    ],
+    "speakerRoles": {
+      "Timandra Harkness": "Chair"
+    },
+    "room": "Temple Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "10:15",
+    "endTime": "11:45",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1015-wash-house-caf",
+    "theme": "International Affairs",
+    "title": "Should We Put Britain First? The 'National Interest' Question",
+    "speakers": [
+      "Sabine Beppler-Spahl",
+      "Nick Busvine OBE",
+      "Lord Ross Kempsell",
+      "Lord Jack McConnell",
+      "Sebastian Moore",
+      "Hilary Salt"
+    ],
+    "speakerRoles": {
+      "Hilary Salt": "Chair"
+    },
+    "room": "Wash House Café",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "10:15",
+    "endTime": "11:45",
+    "floor": "Ground floor",
+    "venue": "The Abbey Centre"
+  },
+  {
+    "id": "sat-1015-westminster-room",
+    "theme": "Contemporary Controversies",
+    "title": "Why Are Influencers So Influential?",
+    "speakers": [
+      "Felice Basbøll",
+      "Andrew Gold",
+      "Jenny Holland",
+      "Connie Shaw",
+      "Oliver Walsh",
+      "Kirstin Brady"
+    ],
+    "speakerRoles": {
+      "Kirstin Brady": "Chair"
+    },
+    "room": "Westminster Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "10:15",
+    "endTime": "11:45",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1215-abbey-room",
+    "theme": "Go On, Convince Me",
+    "title": "Let Me Convince You: Britain Needs a US-Style Free-Speech First Amendment",
+    "speakers": [
+      "Michael C R Reiners",
+      "Dennis Hayes"
+    ],
+    "speakerRoles": {
+      "Michael C R Reiners": "Lecturer",
+      "Dennis Hayes": "Chair"
+    },
+    "room": "Abbey Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "12:15",
+    "endTime": "13:30",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1215-assembly-hall",
+    "theme": "Keynote Controversies",
+    "title": "Will Reform Be Allowed to Rule? How to Take On 'The Blob'",
+    "speakers": [
+      "Danny Kruger MP",
+      "Claire Fox"
+    ],
+    "speakerRoles": {
+      "Claire Fox": "in conversation"
+    },
+    "room": "Assembly Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "12:15",
+    "endTime": "13:30",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1215-convocation-hall",
+    "theme": "Battle for the Economy",
+    "title": "From Energy Caps to Rent Controls: Can the State Run the Market?",
+    "speakers": [
+      "Martin Abrams",
+      "Steve Baker",
+      "Rob Lyons",
+      "Vicky Pryce",
+      "Phil Mullan"
+    ],
+    "speakerRoles": {
+      "Phil Mullan": "Chair"
+    },
+    "room": "Convocation Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "12:15",
+    "endTime": "13:30",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1215-council-room",
+    "theme": "Culture Wars",
+    "title": "FIFA and the Future of Football",
+    "speakers": [
+      "Duleep Allirajah",
+      "Jack Kelsall",
+      "Paul Quinn",
+      "Sally Taplin",
+      "Geoff Kidder"
+    ],
+    "speakerRoles": {
+      "Geoff Kidder": "Chair"
+    },
+    "room": "Council Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "12:15",
+    "endTime": "13:30",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1215-harvey-goodwin-suite",
+    "theme": "Podcasts Live",
+    "title": "Podcast Live: The Spiked Podcast – Latest in Politics, Free Speech and the Culture War",
+    "speakers": [
+      "Fraser Myers",
+      "Tom Slater",
+      "Poppy Coburn",
+      "Francis Foster",
+      "Andrew Gold"
+    ],
+    "speakerRoles": {
+      "Fraser Myers": "Host",
+      "Tom Slater": "Host",
+      "Poppy Coburn": "Guest",
+      "Francis Foster": "Guest",
+      "Andrew Gold": "Guest"
+    },
+    "room": "Harvey Goodwin Suite",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "12:15",
+    "endTime": "13:30",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1215-hoare-memorial-hall",
+    "theme": "(Un)Free Society",
+    "title": "Is It Islamism – or Is There a Problem with Islam?",
+    "speakers": [
+      "Daniel Ben-Ami",
+      "Josh Howie",
+      "Khadija Khan",
+      "Connie Shaw",
+      "Jake Wallis Simons",
+      "Mark Birbeck"
+    ],
+    "speakerRoles": {
+      "Mark Birbeck": "Chair"
+    },
+    "room": "Hoare Memorial Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "12:15",
+    "endTime": "13:30",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1215-hospitality-suite",
+    "theme": "The State of Welfare",
+    "title": "From ADHD to Autism: Negotiating the Special-Needs Crisis",
+    "speakers": [
+      "Carrie Clark",
+      "Dave Clements",
+      "Naomi Fisher",
+      "Lukas Seifert",
+      "Kevin Rooney"
+    ],
+    "speakerRoles": {
+      "Kevin Rooney": "Chair"
+    },
+    "room": "Hospitality Suite",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "12:15",
+    "endTime": "13:30",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1215-parker-morris-hall",
+    "theme": "The State of Britain",
+    "title": "From Metro Mayors to Manchester: A Devolution Revolution?",
+    "speakers": [
+      "Dolan Cummings",
+      "Lord Jack McConnell",
+      "Shelagh McNerney",
+      "Andy Preston",
+      "Gawain Towler",
+      "Alastair Donald"
+    ],
+    "speakerRoles": {
+      "Alastair Donald": "Chair"
+    },
+    "room": "Parker Morris Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "12:15",
+    "endTime": "13:30",
+    "floor": "First floor",
+    "venue": "The Abbey Centre"
+  },
+  {
+    "id": "sat-1215-robert-runcie-room",
+    "theme": "Ethical Dilemmas",
+    "title": "Hounded: Social Accountability or Bullying?",
+    "speakers": [
+      "Albie Amankona",
+      "Jenny Lindsay",
+      "Jo Phoenix",
+      "Michelle Shipworth",
+      "Jacob Reynolds"
+    ],
+    "speakerRoles": {
+      "Jacob Reynolds": "Chair"
+    },
+    "room": "Robert Runcie Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "12:15",
+    "endTime": "13:30",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1215-temple-room",
+    "theme": "Ideological Capture?",
+    "title": "From Pride to Palestine: Who Are Today's Greens?",
+    "speakers": [
+      "Shahrar Ali",
+      "Julie Bindel",
+      "Mark Hill",
+      "Simon Nash",
+      "David Axe"
+    ],
+    "speakerRoles": {
+      "David Axe": "Chair"
+    },
+    "room": "Temple Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "12:15",
+    "endTime": "13:30",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1215-wash-house-caf",
+    "theme": "International Affairs",
+    "title": "Europe's Migration Chaos: Can We Learn from the 'Danish Model'?",
+    "speakers": [
+      "Felice Basbøll",
+      "Sabine Beppler-Spahl",
+      "Henrik Overgaard-Nielsen",
+      "Laura Perrins",
+      "Bruno Waterfield",
+      "Tony Gilland"
+    ],
+    "speakerRoles": {
+      "Tony Gilland": "Chair"
+    },
+    "room": "Wash House Café",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "12:15",
+    "endTime": "13:30",
+    "floor": "Ground floor",
+    "venue": "The Abbey Centre"
+  },
+  {
+    "id": "sat-1215-westminster-room",
+    "theme": "Contemporary Controversies",
+    "title": "Lies, Damned Lies... Let's Talk About Stats",
+    "speakers": [
+      "Josie Appleton",
+      "Jamie Jenkins",
+      "Abhishek Saha",
+      "Alice Sullivan",
+      "Timandra Harkness"
+    ],
+    "speakerRoles": {
+      "Timandra Harkness": "Chair"
+    },
+    "room": "Westminster Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "12:15",
+    "endTime": "13:30",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1345-convocation-hall",
+    "theme": "Battle for the Economy",
+    "title": "The Death of Enterprise: Are Regulations Strangling Business?",
+    "speakers": [
+      "Lord Stewart Jackson",
+      "Tony Matharu",
+      "Wendy Whittaker-Large",
+      "Sheila Lewis"
+    ],
+    "speakerRoles": {
+      "Sheila Lewis": "Chair"
+    },
+    "room": "Convocation Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "13:45",
+    "endTime": "14:30",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1345-council-room",
+    "theme": "Culture Wars",
+    "title": "Podcast Extra: Arts First – Myth, Religion and National Identity",
+    "speakers": [
+      "Niall Crowley",
+      "Dolan Cummings"
+    ],
+    "speakerRoles": {
+      "Niall Crowley": "Host",
+      "Dolan Cummings": "Guest"
+    },
+    "room": "Council Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "13:45",
+    "endTime": "14:30",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1345-harvey-goodwin-suite",
+    "theme": "Podcasts Live",
+    "title": "Podcast Live: This Isn't Working – Are Women to Blame for 'Woke' Workplaces?",
+    "speakers": [
+      "Tanya de Grunwald",
+      "Joanna Williams"
+    ],
+    "speakerRoles": {
+      "Tanya de Grunwald": "Host",
+      "Joanna Williams": "Guest"
+    },
+    "room": "Harvey Goodwin Suite",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "13:45",
+    "endTime": "14:30",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1345-hospitality-suite",
+    "theme": "The State of Welfare",
+    "title": "Exploring Autonomy and Identity: What Is Disability Anyway?",
+    "speakers": [
+      "Pete Donnelly",
+      "George Fielding",
+      "Dave Clements"
+    ],
+    "speakerRoles": {
+      "Dave Clements": "Chair"
+    },
+    "room": "Hospitality Suite",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "13:45",
+    "endTime": "14:30",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1345-parker-morris-hall",
+    "theme": "The State of Britain",
+    "title": "What Has the BBC Ever Done for Us?",
+    "speakers": [
+      "Phil Craig",
+      "Linda Duberley",
+      "Philip Kiszely",
+      "Tiffany Jenkins"
+    ],
+    "speakerRoles": {
+      "Tiffany Jenkins": "Chair"
+    },
+    "room": "Parker Morris Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "13:45",
+    "endTime": "14:30",
+    "floor": "First floor",
+    "venue": "The Abbey Centre"
+  },
+  {
+    "id": "sat-1345-robert-runcie-room",
+    "theme": "Ethical Dilemmas",
+    "title": "FAFO Parents and the Return of the Big Boss Mum",
+    "speakers": [
+      "Baroness Joanne Cash",
+      "Naomi Firsht",
+      "Emma Woolf",
+      "Ella Whelan"
+    ],
+    "speakerRoles": {
+      "Ella Whelan": "Chair"
+    },
+    "room": "Robert Runcie Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "13:45",
+    "endTime": "14:30",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1345-temple-room",
+    "theme": "Ideological Capture?",
+    "title": "After Arday: Is Sociology Worth Saving?",
+    "speakers": [
+      "Sam Glover",
+      "Ellie Lee",
+      "Emma Trimble",
+      "Ruth Mieschbuehler"
+    ],
+    "speakerRoles": {
+      "Ruth Mieschbuehler": "Chair"
+    },
+    "room": "Temple Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "13:45",
+    "endTime": "14:30",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1445-abbey-room",
+    "theme": "Go On, Convince Me",
+    "title": "Let Me Convince You: The United Kingdom Is Over — Good!",
+    "speakers": [
+      "Kevin Rooney",
+      "Simon Knight"
+    ],
+    "speakerRoles": {
+      "Kevin Rooney": "Lecturer",
+      "Simon Knight": "Chair"
+    },
+    "room": "Abbey Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "14:45",
+    "endTime": "16:15",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1445-assembly-hall",
+    "theme": "Keynote Controversies",
+    "title": "We Don't 'Do God': Have We Lost Faith in Secular Liberalism?",
+    "speakers": [
+      "Ashley Frawley",
+      "Lord Maurice Glasman",
+      "Ike Ijeh",
+      "Khalid Mahmood",
+      "Michael Murphy",
+      "Jacob Reynolds"
+    ],
+    "speakerRoles": {
+      "Jacob Reynolds": "Chair"
+    },
+    "room": "Assembly Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "14:45",
+    "endTime": "16:15",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1445-convocation-hall",
+    "theme": "Battle for the Economy",
+    "title": "WTF Is Manchesterism... and Can It Save the Economy?",
+    "speakers": [
+      "Jonny Ball",
+      "Lord Stewart Jackson",
+      "Shelagh McNerney",
+      "Phil Mullan",
+      "Rob Lyons"
+    ],
+    "speakerRoles": {
+      "Rob Lyons": "Chair"
+    },
+    "room": "Convocation Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "14:45",
+    "endTime": "16:15",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1445-council-room",
+    "theme": "Culture Wars",
+    "title": "Once Upon a Time: Children's Literature and the Culture Wars",
+    "speakers": [
+      "Stephanie Davies-Arai",
+      "Ian Mitchell",
+      "Gillian Philip",
+      "Julia Williams",
+      "Ella Whelan"
+    ],
+    "speakerRoles": {
+      "Ella Whelan": "Chair"
+    },
+    "room": "Council Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "14:45",
+    "endTime": "16:15",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1445-harvey-goodwin-suite",
+    "theme": "Podcasts Live",
+    "title": "Podcast Live: The Free Speech Union on the Free Speech Frontline",
+    "speakers": [
+      "Connie Shaw",
+      "Ben Jones",
+      "Jan Macvarish",
+      "David Rose"
+    ],
+    "speakerRoles": {
+      "Connie Shaw": "Host",
+      "Ben Jones": "Guest",
+      "Jan Macvarish": "Guest",
+      "David Rose": "Guest"
+    },
+    "room": "Harvey Goodwin Suite",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "14:45",
+    "endTime": "16:15",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1445-hoare-memorial-hall",
+    "theme": "(Un)Free Society",
+    "title": "White Working Class: Forgotten Demographic or Identity Grievance-Mongering?",
+    "speakers": [
+      "Ada Akpala",
+      "Albie Amankona",
+      "Neil Davenport",
+      "Brian Denny",
+      "Eric Kaufmann",
+      "Alka Sehgal Cuthbert"
+    ],
+    "speakerRoles": {
+      "Alka Sehgal Cuthbert": "Chair"
+    },
+    "room": "Hoare Memorial Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "14:45",
+    "endTime": "16:15",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1445-hospitality-suite",
+    "theme": "The State of Welfare",
+    "title": "Social Care Crisis: Who Should Look After Our Elderly?",
+    "speakers": [
+      "Jennie Bristow",
+      "Andy Cox",
+      "Gareth Lyon",
+      "Alice Semark",
+      "Louis Stedman-Bryce",
+      "Gareth Sturdy"
+    ],
+    "speakerRoles": {
+      "Gareth Sturdy": "Chair"
+    },
+    "room": "Hospitality Suite",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "14:45",
+    "endTime": "16:15",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1445-parker-morris-hall",
+    "theme": "The State of Britain",
+    "title": "Visas for All? Britain's Immigration Scandal",
+    "speakers": [
+      "Remi Adekoya",
+      "Guy Dampier",
+      "Rakib Ehsan",
+      "James Heartfield",
+      "Stella Tsantekidou",
+      "Luke Gittos"
+    ],
+    "speakerRoles": {
+      "Luke Gittos": "Chair"
+    },
+    "room": "Parker Morris Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "14:45",
+    "endTime": "16:15",
+    "floor": "First floor",
+    "venue": "The Abbey Centre"
+  },
+  {
+    "id": "sat-1445-robert-runcie-room",
+    "theme": "Ethical Dilemmas",
+    "title": "Puberty-Blockers Scandal: The Ethics of Clinical Trials",
+    "speakers": [
+      "Kate Barker",
+      "Jennifer Cunningham",
+      "Baroness Sharron Davies",
+      "James Esses",
+      "Marcus Evans",
+      "Claire Fox"
+    ],
+    "speakerRoles": {
+      "Claire Fox": "Chair"
+    },
+    "room": "Robert Runcie Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "14:45",
+    "endTime": "16:15",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1445-temple-room",
+    "theme": "Ideological Capture?",
+    "title": "Stop the Press! Media Is Biased… or Is It?",
+    "speakers": [
+      "Jochen Bittner",
+      "Rob Burley",
+      "Poppy Coburn",
+      "Phil Craig",
+      "Bruno Waterfield",
+      "Alastair Donald"
+    ],
+    "speakerRoles": {
+      "Alastair Donald": "Chair"
+    },
+    "room": "Temple Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "14:45",
+    "endTime": "16:15",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1445-wash-house-caf",
+    "theme": "International Affairs",
+    "title": "Is America Living Up to the Ideals of the Founding Fathers?",
+    "speakers": [
+      "Cheryl Hudson",
+      "Jacob Mchangama",
+      "James Price",
+      "Mark Seddon",
+      "Alan Miller"
+    ],
+    "speakerRoles": {
+      "Alan Miller": "Chair"
+    },
+    "room": "Wash House Café",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "14:45",
+    "endTime": "16:15",
+    "floor": "Ground floor",
+    "venue": "The Abbey Centre"
+  },
+  {
+    "id": "sat-1445-westminster-room",
+    "theme": "Contemporary Controversies",
+    "title": "From Voting Systems to Parliamentary Reform: Constitutional Vandalism?",
+    "speakers": [
+      "Tessa Clarke",
+      "Ameer Kotecha",
+      "Lord Moylan",
+      "Sienna Rogers",
+      "Samuel Rubinstein",
+      "James Panton"
+    ],
+    "speakerRoles": {
+      "James Panton": "Chair"
+    },
+    "room": "Westminster Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "14:45",
+    "endTime": "16:15",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1645-abbey-room",
+    "theme": "Go On, Convince Me",
+    "title": "Let Me Convince You: We Must Defend Liberalism",
+    "speakers": [
+      "Ashley Frawley",
+      "Sebastian Moore"
+    ],
+    "speakerRoles": {
+      "Ashley Frawley": "Lecturer",
+      "Sebastian Moore": "Chair"
+    },
+    "room": "Abbey Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "16:45",
+    "endTime": "18:15",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1645-assembly-hall",
+    "theme": "Keynote Controversies",
+    "title": "Should We Tolerate the Intolerant?",
+    "speakers": [
+      "Steve Baker",
+      "Frank Furedi",
+      "Ben Jones",
+      "Harry Miller",
+      "Rupa Subramanya",
+      "Ella Whelan"
+    ],
+    "speakerRoles": {
+      "Ella Whelan": "Chair"
+    },
+    "room": "Assembly Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "16:45",
+    "endTime": "18:15",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1645-convocation-hall",
+    "theme": "Battle for the Economy",
+    "title": "Don't Look Back! Escaping the EU's Economic Doom Loop",
+    "speakers": [
+      "Lord David Frost",
+      "Norman Lewis",
+      "Catherine McBride OBE",
+      "Ali Miraj",
+      "Steve Wright",
+      "Bruno Waterfield"
+    ],
+    "speakerRoles": {
+      "Bruno Waterfield": "Chair"
+    },
+    "room": "Convocation Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "16:45",
+    "endTime": "18:15",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1645-council-room",
+    "theme": "Culture Wars",
+    "title": "When Activism Meets the Arts",
+    "speakers": [
+      "Nat Edwards",
+      "Denise Fahmy",
+      "Oliver Rudland",
+      "Lola Salem",
+      "Alexandra Wilson",
+      "Wendy Earle"
+    ],
+    "speakerRoles": {
+      "Wendy Earle": "Chair"
+    },
+    "room": "Council Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "16:45",
+    "endTime": "18:15",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1645-harvey-goodwin-suite",
+    "theme": "Podcasts Live",
+    "title": "Podcast Live: The Brink – Islam in Britain After October 7",
+    "speakers": [
+      "Andrew Fox",
+      "Jake Wallis Simons",
+      "Fiyaz Mughal"
+    ],
+    "speakerRoles": {
+      "Andrew Fox": "Host",
+      "Jake Wallis Simons": "Host",
+      "Fiyaz Mughal": "Guest"
+    },
+    "room": "Harvey Goodwin Suite",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "16:45",
+    "endTime": "18:15",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1645-hoare-memorial-hall",
+    "theme": "(Un)Free Society",
+    "title": "GB News Free Speech Nation with Josh Howie",
+    "speakers": [
+      "Baroness Joanne Cash",
+      "Quassim Cassam",
+      "Tanya de Grunwald",
+      "Francis Foster",
+      "Genevieve Gluck",
+      "Intel Lady",
+      "Josh Howie"
+    ],
+    "speakerRoles": {
+      "Josh Howie": "Host"
+    },
+    "room": "Hoare Memorial Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "16:45",
+    "endTime": "18:15",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1645-hospitality-suite",
+    "theme": "The State of Welfare",
+    "title": "Will the Pensions 'Triple Lock' Bankrupt Britain?",
+    "speakers": [
+      "Joanna Marchong",
+      "Maxwell Marlow",
+      "Lisa McKenzie",
+      "Phil Mullan",
+      "Hilary Salt",
+      "Jake Weston"
+    ],
+    "speakerRoles": {
+      "Jake Weston": "Chair"
+    },
+    "room": "Hospitality Suite",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "16:45",
+    "endTime": "18:15",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1645-parker-morris-hall",
+    "theme": "The State of Britain",
+    "title": "From Kemi's Tories to Andy's Labour: Can the Legacy Parties Make a Comeback?",
+    "speakers": [
+      "Jonny Ball",
+      "Carlton Brick",
+      "Ike Ijeh",
+      "Esther McVey MP",
+      "Stella Tsantekidou",
+      "Sally Millard"
+    ],
+    "speakerRoles": {
+      "Sally Millard": "Chair"
+    },
+    "room": "Parker Morris Hall",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "16:45",
+    "endTime": "18:15",
+    "floor": "First floor",
+    "venue": "The Abbey Centre"
+  },
+  {
+    "id": "sat-1645-robert-runcie-room",
+    "theme": "Ethical Dilemmas",
+    "title": "From Womb Transplants to Caesareans: Brave New World of Fertility?",
+    "speakers": [
+      "Jo Bartosch",
+      "Emma Gilland",
+      "Sandy Starr",
+      "Günes Taylor",
+      "Simon Wilde",
+      "Ann Furedi"
+    ],
+    "speakerRoles": {
+      "Ann Furedi": "Chair"
+    },
+    "room": "Robert Runcie Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "16:45",
+    "endTime": "18:15",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1645-temple-room",
+    "theme": "Ideological Capture?",
+    "title": "We Don't Need No Indoctrination: The Politicisation of Education",
+    "speakers": [
+      "Bella D'Abrera",
+      "Penny Lewis",
+      "Jo-Anne Nadler",
+      "Joanna Williams",
+      "Kevin Rooney"
+    ],
+    "speakerRoles": {
+      "Kevin Rooney": "Chair"
+    },
+    "room": "Temple Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "16:45",
+    "endTime": "18:15",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1645-wash-house-caf",
+    "theme": "International Affairs",
+    "title": "From Vietnam to Iran, Why Can't the West Win Wars?",
+    "speakers": [
+      "Bill Durodié",
+      "James Glancy",
+      "William C. Hicks",
+      "Rosie Kay",
+      "Mark Seddon",
+      "Jacob Reynolds"
+    ],
+    "speakerRoles": {
+      "Jacob Reynolds": "Chair"
+    },
+    "room": "Wash House Café",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "16:45",
+    "endTime": "18:15",
+    "floor": "Ground floor",
+    "venue": "The Abbey Centre"
+  },
+  {
+    "id": "sat-1645-westminster-room",
+    "theme": "Contemporary Controversies",
+    "title": "What Is Racism Anyway?",
+    "speakers": [
+      "Josie Appleton",
+      "Kunle Olulode",
+      "Charlie Peters",
+      "Alka Sehgal Cuthbert",
+      "Alan Miller"
+    ],
+    "speakerRoles": {
+      "Alan Miller": "Chair"
+    },
+    "room": "Westminster Room",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "16:45",
+    "endTime": "18:15",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sat-1815-location-tbc",
+    "theme": "Drinks",
+    "title": "Saturday Night Drinks (see p12)",
+    "speakers": [],
+    "speakerRoles": {},
+    "room": "Location TBC",
+    "day": "Saturday",
+    "date": "2026-10-24",
+    "startTime": "18:15",
+    "endTime": "20:30",
+    "floor": null,
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1000-abbey-room",
+    "theme": "Contemporary Controversies",
+    "title": "From Historymaxxing to Nation-Building: Unpicking the Bayeux Tapestry Mania",
+    "speakers": [
+      "Oliver Bennett",
+      "Ella Cotter",
+      "Michael Lewis",
+      "Elise Morrison",
+      "Vicky Richardson"
+    ],
+    "speakerRoles": {
+      "Vicky Richardson": "Chair"
+    },
+    "room": "Abbey Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "10:00",
+    "endTime": "10:45",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1000-chapel",
+    "theme": "Dialogues",
+    "title": "Can the Socratic Dialogues Help Us Navigate Ethics Today?",
+    "speakers": [
+      "David Perks",
+      "Gareth Sturdy"
+    ],
+    "speakerRoles": {
+      "Gareth Sturdy": "Chair"
+    },
+    "room": "Chapel",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "10:00",
+    "endTime": "10:45",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1000-convocation-hall",
+    "theme": "The State of Britain",
+    "title": "War on Women: 'Independent Publishing for Those Who Refuse to Be Cancelled'",
+    "speakers": [
+      "Jo Phoenix",
+      "Jo Bartosch",
+      "Genevieve Gluck",
+      "Marnie Riches",
+      "Dennis Hayes"
+    ],
+    "speakerRoles": {
+      "Jo Phoenix": "Lecturer",
+      "Jo Bartosch": "Respondent",
+      "Genevieve Gluck": "Respondent",
+      "Marnie Riches": "Respondent",
+      "Dennis Hayes": "Chair"
+    },
+    "room": "Convocation Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "10:00",
+    "endTime": "10:45",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1000-council-room",
+    "theme": "Tech Futures",
+    "title": "From Vape Shops to Gambling: The Rise and Rise of the Black Market",
+    "speakers": [
+      "Jon Bryan",
+      "Sir Philip Davies",
+      "Christopher Snowdon",
+      "Jake Weston"
+    ],
+    "speakerRoles": {
+      "Jake Weston": "Chair"
+    },
+    "room": "Council Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "10:00",
+    "endTime": "10:45",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1000-hospitality-suite",
+    "theme": "Ideological Capture?",
+    "title": "Who Would Be a Mum Today?",
+    "speakers": [
+      "Linda Duberley",
+      "Candice Holdsworth",
+      "Rebecca Steinfeld",
+      "Felice Basbøll"
+    ],
+    "speakerRoles": {
+      "Felice Basbøll": "Chair"
+    },
+    "room": "Hospitality Suite",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "10:00",
+    "endTime": "10:45",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1000-robert-runcie-room",
+    "theme": "International Affairs",
+    "title": "Brexit: The Facts Strike Back",
+    "speakers": [
+      "Nick Busvine OBE",
+      "Catherine McBride OBE",
+      "Robert Tombs",
+      "Ceri Dingle"
+    ],
+    "speakerRoles": {
+      "Ceri Dingle": "Chair"
+    },
+    "room": "Robert Runcie Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "10:00",
+    "endTime": "10:45",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1000-temple-room",
+    "theme": "Future Britain",
+    "title": "Sanctioning Israel: Principle or Prejudice?",
+    "speakers": [
+      "Jonny Gould",
+      "Jean Smith",
+      "Tali Smus",
+      "Simon McKeon"
+    ],
+    "speakerRoles": {
+      "Simon McKeon": "Chair"
+    },
+    "room": "Temple Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "10:00",
+    "endTime": "10:45",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1000-westminster-room",
+    "theme": "Lifestyle Matters",
+    "title": "Benjamin Britten, 50 Years On: Still the Nation's Composer?",
+    "speakers": [
+      "Ian Pace",
+      "Oliver Rudland",
+      "Elisabetta Gasparoni"
+    ],
+    "speakerRoles": {
+      "Elisabetta Gasparoni": "Chair"
+    },
+    "room": "Westminster Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "10:00",
+    "endTime": "10:45",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1100-abbey-room",
+    "theme": "Contemporary Controversies",
+    "title": "The Reparations Debate",
+    "speakers": [
+      "Ada Akpala",
+      "Piers Benn",
+      "Rafe Heydel-Mankoo",
+      "Alka Sehgal Cuthbert",
+      "Louise Burton"
+    ],
+    "speakerRoles": {
+      "Louise Burton": "Chair"
+    },
+    "room": "Abbey Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1100-assembly-hall",
+    "theme": "Keynote Controversies",
+    "title": "Is the Social Contract Broken? The Fight for the Soul of Democracy",
+    "speakers": [
+      "Jennie Bristow",
+      "Rakib Ehsan",
+      "Lord Darren Mott",
+      "Sebastian Payne",
+      "Luke Tryl",
+      "Claire Fox"
+    ],
+    "speakerRoles": {
+      "Claire Fox": "Chair"
+    },
+    "room": "Assembly Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1100-church-house-caf",
+    "theme": "Bookshop Café Conversations",
+    "title": "Podcast Extra: The Booking Club with Jack Aldane – The Catcher in the Rye, 75 Years On",
+    "speakers": [
+      "Jack Aldane",
+      "Tim Black",
+      "JJ Charlesworth",
+      "Georgina Mumford"
+    ],
+    "speakerRoles": {
+      "Jack Aldane": "Host",
+      "Tim Black": "Guest",
+      "JJ Charlesworth": "Guest",
+      "Georgina Mumford": "Guest"
+    },
+    "room": "Church House Café",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1100-convocation-hall",
+    "theme": "The State of Britain",
+    "title": "Dystopia Versus Utopia: Does AI Change Everything?",
+    "speakers": [
+      "Donald Clark",
+      "Simon Evans",
+      "Lord Kulveer Ranger",
+      "Karin Rudolph",
+      "Sandy Starr",
+      "Timandra Harkness"
+    ],
+    "speakerRoles": {
+      "Timandra Harkness": "Chair"
+    },
+    "room": "Convocation Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1100-council-room",
+    "theme": "Tech Futures",
+    "title": "Will the New New Media Finally Kill Off the MSM?",
+    "speakers": [
+      "Penny Dee",
+      "Rob Lownie",
+      "Nico Macdonald",
+      "Lucy McLaughlin",
+      "Charlie Peters",
+      "John O'Brien"
+    ],
+    "speakerRoles": {
+      "John O'Brien": "Chair"
+    },
+    "room": "Council Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1100-harvey-goodwin-suite",
+    "theme": "Podcasts Live",
+    "title": "Podcast Live: Planet Normal – News and Views from Beyond the Bubble",
+    "speakers": [
+      "Liam Halligan",
+      "Allison Pearson",
+      "Lucy Connolly",
+      "Robert Tombs"
+    ],
+    "speakerRoles": {
+      "Liam Halligan": "Host",
+      "Allison Pearson": "Host",
+      "Lucy Connolly": "Guest",
+      "Robert Tombs": "Guest"
+    },
+    "room": "Harvey Goodwin Suite",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1100-hoare-memorial-hall",
+    "theme": "(Un)Free Society",
+    "title": "Conversion Practices Bill: Criminalising Parents, Teachers and Priests?",
+    "speakers": [
+      "Lucy Beney",
+      "Faika El-Nagashi",
+      "Neale Hanvey",
+      "Helen Joyce",
+      "Sarah Phillimore",
+      "Jan Macvarish"
+    ],
+    "speakerRoles": {
+      "Jan Macvarish": "Chair"
+    },
+    "room": "Hoare Memorial Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1100-hospitality-suite",
+    "theme": "Ideological Capture?",
+    "title": "Why Is Policing Britain So Difficult?",
+    "speakers": [
+      "Paul Birch",
+      "Luke Gittos",
+      "Lisa McKenzie",
+      "Rick Prior",
+      "Hardeep Singh",
+      "Michael Owens"
+    ],
+    "speakerRoles": {
+      "Michael Owens": "Chair"
+    },
+    "room": "Hospitality Suite",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1100-robert-runcie-room",
+    "theme": "International Affairs",
+    "title": "What's China Up to in the Middle East?",
+    "speakers": [
+      "Ahmed Aboudouh",
+      "Mary Dejevsky",
+      "Humphrey Hawksley",
+      "Edward Howell",
+      "Austin Williams"
+    ],
+    "speakerRoles": {
+      "Austin Williams": "Chair"
+    },
+    "room": "Robert Runcie Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1100-temple-room",
+    "theme": "Future Britain",
+    "title": "Hedgerows vs Highways: The Urban / Rural Divide",
+    "speakers": [
+      "Baroness Kate Hoey",
+      "Ian Llewellyn",
+      "Baroness Ann Mallalieu",
+      "Maxwell Marlow",
+      "Charlie Pye-Smith",
+      "Alastair Donald"
+    ],
+    "speakerRoles": {
+      "Alastair Donald": "Chair"
+    },
+    "room": "Temple Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1100-westminster-room",
+    "theme": "Lifestyle Matters",
+    "title": "Angry Young Women? The Rise of the Femosphere",
+    "speakers": [
+      "Ashley Frawley",
+      "Maeve Halligan",
+      "Scarlett Maguire",
+      "Zoe Strimpel",
+      "Emma Gilland"
+    ],
+    "speakerRoles": {
+      "Emma Gilland": "Chair"
+    },
+    "room": "Westminster Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1245-chapel",
+    "theme": "Dialogues",
+    "title": "Meet the Authors: Hegel's Phenomenology of Spirit",
+    "speakers": [
+      "James Heartfield",
+      "Cronain O'Kelly",
+      "Toby Marshall"
+    ],
+    "speakerRoles": {
+      "Toby Marshall": "Chair"
+    },
+    "room": "Chapel",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "12:45",
+    "endTime": "13:30",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1245-convocation-hall",
+    "theme": "The State of Britain",
+    "title": "Opinion Polling: Democracy's Friend – or Foe?",
+    "speakers": [
+      "Daniel Cremin",
+      "Niamh Mercer Danher",
+      "Luke Tryl",
+      "James Panton"
+    ],
+    "speakerRoles": {
+      "James Panton": "Chair"
+    },
+    "room": "Convocation Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "12:45",
+    "endTime": "13:30",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1245-council-room",
+    "theme": "Tech Futures",
+    "title": "AI Content: Genius or Garbage? We Ask AI",
+    "speakers": [
+      "Piers Benn",
+      "Tom Berman",
+      "Penny Lewis",
+      "Martin Loat OBE",
+      "Vicky Richardson",
+      "Rob Lyons"
+    ],
+    "speakerRoles": {
+      "Rob Lyons": "Chair"
+    },
+    "room": "Council Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "12:45",
+    "endTime": "13:30",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1245-harvey-goodwin-suite",
+    "theme": "Podcasts Live",
+    "title": "Podcast Live: Spectator's Coffee House Shots",
+    "speakers": [
+      "James Heale",
+      "Scarlett Maguire"
+    ],
+    "speakerRoles": {
+      "James Heale": "Host",
+      "Scarlett Maguire": "Guest"
+    },
+    "room": "Harvey Goodwin Suite",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "12:45",
+    "endTime": "13:30",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1245-hoare-memorial-hall",
+    "theme": "(Un)Free Society",
+    "title": "Middlesbrough: What Just Happened?",
+    "speakers": [
+      "Rory Geoghegan",
+      "Andy Preston",
+      "Joanna Williams",
+      "Jon Bryan"
+    ],
+    "speakerRoles": {
+      "Jon Bryan": "Chair"
+    },
+    "room": "Hoare Memorial Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "12:45",
+    "endTime": "13:30",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1245-hospitality-suite",
+    "theme": "Ideological Capture?",
+    "title": "LGB & TQI+: The History and Future of a Forced Marriage",
+    "speakers": [
+      "Neale Hanvey",
+      "Bev Jackson",
+      "David Stickland",
+      "Michael Owens"
+    ],
+    "speakerRoles": {
+      "Michael Owens": "Chair"
+    },
+    "room": "Hospitality Suite",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "12:45",
+    "endTime": "13:30",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1245-robert-runcie-room",
+    "theme": "International Affairs",
+    "title": "French Elections 2027: Chaos in France... Turmoil in Europe?",
+    "speakers": [
+      "Philippe Karsenty",
+      "Lola Salem",
+      "Richard Schenk",
+      "Fraser Myers"
+    ],
+    "speakerRoles": {
+      "Fraser Myers": "Chair"
+    },
+    "room": "Robert Runcie Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "12:45",
+    "endTime": "13:30",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1245-temple-room",
+    "theme": "Future Britain",
+    "title": "Are Drones Ready for Take-Off?",
+    "speakers": [
+      "Lt Jack Clark",
+      "James Woudhuysen",
+      "Timandra Harkness"
+    ],
+    "speakerRoles": {
+      "Timandra Harkness": "Chair"
+    },
+    "room": "Temple Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "12:45",
+    "endTime": "13:30",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1345-abbey-room",
+    "theme": "Contemporary Controversies",
+    "title": "Letters on Liberty: Islamo-Leftism – New Challenges to Freedom",
+    "speakers": [
+      "Tim Black",
+      "Daniel Ben-Ami",
+      "Manick Govinda",
+      "Vanessa Pupavac",
+      "Tim Scott",
+      "Jan Macvarish"
+    ],
+    "speakerRoles": {
+      "Tim Black": "Lecturer",
+      "Daniel Ben-Ami": "Respondent",
+      "Manick Govinda": "Respondent",
+      "Vanessa Pupavac": "Respondent",
+      "Tim Scott": "Respondent",
+      "Jan Macvarish": "Chair"
+    },
+    "room": "Abbey Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "13:45",
+    "endTime": "15:15",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1345-assembly-hall",
+    "theme": "Keynote Controversies",
+    "title": "Free Speech for Me and Not for Thee? The Red Lines in Free Expression",
+    "speakers": [
+      "Paul Coleman",
+      "Akiko Hart",
+      "Jacob Mchangama",
+      "Akua Reindorf",
+      "Tom Slater",
+      "Alastair Donald"
+    ],
+    "speakerRoles": {
+      "Alastair Donald": "Chair"
+    },
+    "room": "Assembly Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "13:45",
+    "endTime": "15:15",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1345-church-house-caf",
+    "theme": "Bookshop Café Conversations",
+    "title": "To Kill a Mockingbird: Timeless or Outdated?",
+    "speakers": [
+      "Luke Gittos",
+      "Ralph Leonard",
+      "Georgina Mumford",
+      "Laura Perrins",
+      "Charlie Webber",
+      "Emma Gilland"
+    ],
+    "speakerRoles": {
+      "Emma Gilland": "Chair"
+    },
+    "room": "Church House Café",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "13:45",
+    "endTime": "15:15",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1345-convocation-hall",
+    "theme": "The State of Britain",
+    "title": "The Great Realignment: The Rise and Woes of Populism",
+    "speakers": [
+      "Stephen Davies",
+      "Frank Furedi",
+      "Nick Tyrone",
+      "Ella Whelan"
+    ],
+    "speakerRoles": {
+      "Ella Whelan": "Chair"
+    },
+    "room": "Convocation Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "13:45",
+    "endTime": "15:15",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1345-council-room",
+    "theme": "Tech Futures",
+    "title": "Techlash: Blaming Social Media for Everything",
+    "speakers": [
+      "Lara Brown",
+      "Matilda Gosling",
+      "Molly Kingsley",
+      "Alan Miller",
+      "Abhishek Saha",
+      "Toby Marshall"
+    ],
+    "speakerRoles": {
+      "Toby Marshall": "Chair"
+    },
+    "room": "Council Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "13:45",
+    "endTime": "15:15",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1345-harvey-goodwin-suite",
+    "theme": "Podcasts Live",
+    "title": "Podcast Live: The State of It – Reports from the Coalface of British Politics",
+    "speakers": [
+      "Steven Swinford",
+      "Patrick Maguire",
+      "Lara Spirit"
+    ],
+    "speakerRoles": {
+      "Steven Swinford": "Host",
+      "Patrick Maguire": "Guest",
+      "Lara Spirit": "Guest"
+    },
+    "room": "Harvey Goodwin Suite",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "13:45",
+    "endTime": "15:15",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1345-hoare-memorial-hall",
+    "theme": "(Un)Free Society",
+    "title": "Should We Scrap the Equality Act?",
+    "speakers": [
+      "Shahrar Ali",
+      "Laila Cunningham",
+      "Jon Holbrook",
+      "Dennis Kavanagh",
+      "Alka Sehgal Cuthbert",
+      "Claire Fox"
+    ],
+    "speakerRoles": {
+      "Claire Fox": "Chair"
+    },
+    "room": "Hoare Memorial Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "13:45",
+    "endTime": "15:15",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1345-hospitality-suite",
+    "theme": "Ideological Capture?",
+    "title": "NHS, Police, BBC... Is Politicisation Corrupting Public Services?",
+    "speakers": [
+      "Ian Acheson",
+      "Andrew Gilligan",
+      "Ameer Kotecha",
+      "Baroness Sarah Ludford",
+      "Nick Wallis",
+      "Jacob Reynolds"
+    ],
+    "speakerRoles": {
+      "Jacob Reynolds": "Chair"
+    },
+    "room": "Hospitality Suite",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "13:45",
+    "endTime": "15:15",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1345-robert-runcie-room",
+    "theme": "International Affairs",
+    "title": "Finally Trumped: Who's the Heir to MAGA?",
+    "speakers": [
+      "Mary Dejevsky",
+      "Dominic Green",
+      "William C. Hicks",
+      "Jenny Holland",
+      "Richard Johnson",
+      "Kevin Yuill"
+    ],
+    "speakerRoles": {
+      "Kevin Yuill": "Chair"
+    },
+    "room": "Robert Runcie Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "13:45",
+    "endTime": "15:15",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1345-temple-room",
+    "theme": "Future Britain",
+    "title": "Power to the People: Can Energy Policy Rebuild Britain?",
+    "speakers": [
+      "Richard Lyon",
+      "The Earl Russell",
+      "Ralph Schoellhammer",
+      "Michelle Shipworth",
+      "Austin Williams",
+      "Dominic Standish"
+    ],
+    "speakerRoles": {
+      "Dominic Standish": "Chair"
+    },
+    "room": "Temple Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "13:45",
+    "endTime": "15:15",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1345-westminster-room",
+    "theme": "Lifestyle Matters",
+    "title": "Hard Hats or Graduation Caps: Can Schools Solve the NEETs Problem?",
+    "speakers": [
+      "Felice Basbøll",
+      "Linda Murdoch",
+      "Kunle Olulode",
+      "Baroness Spielman",
+      "Harley Richardson"
+    ],
+    "speakerRoles": {
+      "Harley Richardson": "Chair"
+    },
+    "room": "Westminster Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "13:45",
+    "endTime": "15:15",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1545-abbey-room",
+    "theme": "Contemporary Controversies",
+    "title": "From Cultural Icons to Background Noise: What Happened to the Bands?",
+    "speakers": [
+      "David Cotter",
+      "Neil Davenport",
+      "Philip Kiszely",
+      "Lysia Leal",
+      "Leo Villa",
+      "Andy Shaw"
+    ],
+    "speakerRoles": {
+      "Andy Shaw": "Chair"
+    },
+    "room": "Abbey Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "15:45",
+    "endTime": "17:00",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1545-assembly-hall",
+    "theme": "Keynote Controversies",
+    "title": "Do We Know Our Enemy? Untangling Terrorism and Extremism",
+    "speakers": [
+      "Quassim Cassam",
+      "Faika El-Nagashi",
+      "Luke Gittos",
+      "Jonathan Hall KC",
+      "Jacob Reynolds"
+    ],
+    "speakerRoles": {
+      "Jacob Reynolds": "Chair"
+    },
+    "room": "Assembly Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "15:45",
+    "endTime": "17:00",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1545-church-house-caf",
+    "theme": "Bookshop Café Conversations",
+    "title": "The Odyssey: Cinematic Sensation or Sin Against the Greeks?",
+    "speakers": [
+      "Niall Crowley",
+      "Frank Hudson",
+      "David Perks",
+      "Maren Thom",
+      "Stella Tsantekidou",
+      "Jane Sandeman"
+    ],
+    "speakerRoles": {
+      "Jane Sandeman": "Chair"
+    },
+    "room": "Church House Café",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "15:45",
+    "endTime": "17:00",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1545-convocation-hall",
+    "theme": "The State of Britain",
+    "title": "Anti-Social Britain: Why Do We Feel Unsafe?",
+    "speakers": [
+      "Lord Shaun Bailey",
+      "Laila Cunningham",
+      "Rory Geoghegan",
+      "Stuart Waiton",
+      "Simon McKeon"
+    ],
+    "speakerRoles": {
+      "Simon McKeon": "Chair"
+    },
+    "room": "Convocation Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "15:45",
+    "endTime": "17:00",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1545-council-room",
+    "theme": "Tech Futures",
+    "title": "From Surveillance to Censorship: Rolling Back the Laws",
+    "speakers": [
+      "Jon Holbrook",
+      "Jon Moynihan",
+      "Maya Thomas",
+      "Lesley Katon"
+    ],
+    "speakerRoles": {
+      "Lesley Katon": "Chair"
+    },
+    "room": "Council Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "15:45",
+    "endTime": "17:00",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1545-harvey-goodwin-suite",
+    "theme": "Podcasts Live",
+    "title": "Podcast Live: Last Orders – The Latest Nanny State News",
+    "speakers": [
+      "Tom Slater",
+      "Christopher Snowdon",
+      "Tony Lapidus",
+      "Gawain Towler"
+    ],
+    "speakerRoles": {
+      "Tom Slater": "Host",
+      "Christopher Snowdon": "Host",
+      "Tony Lapidus": "Guest",
+      "Gawain Towler": "Guest"
+    },
+    "room": "Harvey Goodwin Suite",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "15:45",
+    "endTime": "17:00",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1545-hoare-memorial-hall",
+    "theme": "(Un)Free Society",
+    "title": "Grooming Gangs to the Nottingham Inquiry: Untangling Accountability",
+    "speakers": [
+      "Frank Furedi",
+      "Maggie Oliver",
+      "Emma Webber",
+      "Claire Fox"
+    ],
+    "speakerRoles": {
+      "Claire Fox": "Chair"
+    },
+    "room": "Hoare Memorial Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "15:45",
+    "endTime": "17:00",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1545-hospitality-suite",
+    "theme": "Ideological Capture?",
+    "title": "Women Betrayed: Should We Smash the Unions and Start Again?",
+    "speakers": [
+      "Jim Butcher",
+      "Rosie Duffield MP",
+      "Bethany Hutchison",
+      "Jon Pike",
+      "Ella Whelan"
+    ],
+    "speakerRoles": {
+      "Ella Whelan": "Chair"
+    },
+    "room": "Hospitality Suite",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "15:45",
+    "endTime": "17:00",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1545-robert-runcie-room",
+    "theme": "International Affairs",
+    "title": "What Does International Development Mean to You? Foreign Aid and Its Discontents",
+    "speakers": [
+      "Remi Adekoya",
+      "Nimco Ali OBE",
+      "Emma Gilland",
+      "Steve Miles",
+      "Para Mullan"
+    ],
+    "speakerRoles": {
+      "Para Mullan": "Chair"
+    },
+    "room": "Robert Runcie Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "15:45",
+    "endTime": "17:00",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1545-temple-room",
+    "theme": "Future Britain",
+    "title": "Has Neoliberalism Failed? An Alternative Strategy for Reindustrialisation",
+    "speakers": [
+      "Costas Lapavitsas",
+      "Liam Halligan",
+      "Vicky Pryce",
+      "James Woudhuysen",
+      "Phil Mullan"
+    ],
+    "speakerRoles": {
+      "Costas Lapavitsas": "Lecturer",
+      "Liam Halligan": "Respondent",
+      "Vicky Pryce": "Respondent",
+      "James Woudhuysen": "Respondent",
+      "Phil Mullan": "Chair"
+    },
+    "room": "Temple Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "15:45",
+    "endTime": "17:00",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1545-westminster-room",
+    "theme": "Lifestyle Matters",
+    "title": "Bookshop Barnie: Zoe Strimpel on Good Slut: How Money, Sex and Power Set Women Free",
+    "speakers": [
+      "Zoe Strimpel",
+      "Austin Williams"
+    ],
+    "speakerRoles": {
+      "Austin Williams": "Host"
+    },
+    "room": "Westminster Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "15:45",
+    "endTime": "17:00",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1715-assembly-hall",
+    "theme": "Keynote Controversies",
+    "title": "Suicidal Empathy: Is the West Killing Itself with Kindness?",
+    "speakers": [
+      "Tim Black",
+      "Dominic Green",
+      "Eric Kaufmann",
+      "Emma Trimble",
+      "Claire Fox"
+    ],
+    "speakerRoles": {
+      "Claire Fox": "Chair"
+    },
+    "room": "Assembly Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "17:15",
+    "endTime": "18:30",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1715-convocation-hall",
+    "theme": "The State of Britain",
+    "title": "TikTok Andy and No.10 North: Performance Over Substance?",
+    "speakers": [
+      "Penny Dee",
+      "Richard Johnson",
+      "Fraser Myers",
+      "Simon Wilde",
+      "Ken McLaughlin"
+    ],
+    "speakerRoles": {
+      "Ken McLaughlin": "Chair"
+    },
+    "room": "Convocation Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "17:15",
+    "endTime": "18:30",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1715-harvey-goodwin-suite",
+    "theme": "Podcasts Live",
+    "title": "Podcast Live: Take Me Home – Growing Up in the Culture Wars",
+    "speakers": [
+      "Sebastian Moore",
+      "Hilary Salt",
+      "Jennie Bristow",
+      "Ellie Lee"
+    ],
+    "speakerRoles": {
+      "Sebastian Moore": "Host",
+      "Hilary Salt": "Host",
+      "Jennie Bristow": "Guest",
+      "Ellie Lee": "Guest"
+    },
+    "room": "Harvey Goodwin Suite",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "17:15",
+    "endTime": "18:30",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1715-hoare-memorial-hall",
+    "theme": "(Un)Free Society",
+    "title": "Is Anti-Zionism Really Antisemitism?",
+    "speakers": [
+      "Mark Birbeck",
+      "Philippe Karsenty",
+      "Nicole Lampert",
+      "Ralph Leonard",
+      "Eve Kay"
+    ],
+    "speakerRoles": {
+      "Eve Kay": "Chair"
+    },
+    "room": "Hoare Memorial Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "17:15",
+    "endTime": "18:30",
+    "floor": "First floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1715-hospitality-suite",
+    "theme": "Ideological Capture?",
+    "title": "Assisted Death to Sexual Freedom: Autonomy and Its Discontents",
+    "speakers": [
+      "Ann Furedi",
+      "Tiffany Jenkins",
+      "Helen Joyce",
+      "Rupa Subramanya",
+      "Alastair Donald"
+    ],
+    "speakerRoles": {
+      "Alastair Donald": "Chair"
+    },
+    "room": "Hospitality Suite",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "17:15",
+    "endTime": "18:30",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1715-robert-runcie-room",
+    "theme": "International Affairs",
+    "title": "Post-Trans Mania: The Future for Women in Sport",
+    "speakers": [
+      "Fiona McAnena",
+      "Jon Pike",
+      "Lynne Pinches",
+      "Eloise Schultz",
+      "Su Wong",
+      "Sally Taplin"
+    ],
+    "speakerRoles": {
+      "Sally Taplin": "Chair"
+    },
+    "room": "Robert Runcie Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "17:15",
+    "endTime": "18:30",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1715-temple-room",
+    "theme": "Future Britain",
+    "title": "Who Is Council Housing For?",
+    "speakers": [
+      "Lord Shaun Bailey",
+      "Dylan Evans",
+      "James Heartfield",
+      "Lisa McKenzie",
+      "Michael Owens"
+    ],
+    "speakerRoles": {
+      "Michael Owens": "Chair"
+    },
+    "room": "Temple Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "17:15",
+    "endTime": "18:30",
+    "floor": "Lower ground",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1715-westminster-room",
+    "theme": "Lifestyle Matters",
+    "title": "The Great Sex Recession: Has Gen Z Forgotten How to Date?",
+    "speakers": [
+      "Lara Brown",
+      "Lino Buckingham",
+      "Laura Perrins",
+      "Luke Taylor",
+      "Jake Weston"
+    ],
+    "speakerRoles": {
+      "Jake Weston": "Chair"
+    },
+    "room": "Westminster Room",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "17:15",
+    "endTime": "18:30",
+    "floor": "Ground floor",
+    "venue": "Church House"
+  },
+  {
+    "id": "sun-1830-bishop-partridge-hall",
+    "theme": "End address",
+    "title": "End of Festival Party",
+    "speakers": [],
+    "speakerRoles": {},
+    "room": "Bishop Partridge Hall",
+    "day": "Sunday",
+    "date": "2026-10-25",
+    "startTime": "18:30",
+    "endTime": null,
+    "floor": "First floor",
+    "venue": "Church House"
+  }
+]
